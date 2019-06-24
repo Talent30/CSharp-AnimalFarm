@@ -1,0 +1,10 @@
+C:\Users\Jon Sun\source\repos\Final\Final\bin\x64\Debug\Final.exe.config
+C:\Users\Jon Sun\source\repos\Final\Final\bin\x64\Debug\Final.exe
+C:\Users\Jon Sun\source\repos\Final\Final\bin\x64\Debug\Final.pdb
+C:\Users\Jon Sun\source\repos\Final\Final\obj\x64\Debug\Final.MainForm.resources
+C:\Users\Jon Sun\source\repos\Final\Final\obj\x64\Debug\Final.Properties.Resources.resources
+C:\Users\Jon Sun\source\repos\Final\Final\obj\x64\Debug\Final.csproj.GenerateResource.cache
+C:\Users\Jon Sun\source\repos\Final\Final\obj\x64\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\Jon Sun\source\repos\Final\Final\obj\x64\Debug\Final.exe
+C:\Users\Jon Sun\source\repos\Final\Final\obj\x64\Debug\Final.pdb
+C:\Users\Jon Sun\source\repos\Final\Final\obj\x64\Debug\Final.csprojAssemblyReference.cache
